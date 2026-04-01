@@ -36,7 +36,7 @@ I am currently seeking Software Engineering and AI/ML internship opportunities f
 
 LinkedIn: [Aamir Khan](https://www.linkedin.com/in/aamir-khan-aak521/).
 
-This is my backup account or my second account, because i'm afraid that if i use my main account [Aamir Khan](https://github.com/Akhan521) i'm afraid it will be lost.
+This is my backup account or my second account, because i'm afraid that if i use my main account [Aamir Khan](https://github.com/Akhan521) i'm afraid it will be lost. 😆
 
 ---
 Focus: Engineering reliable AI systems through rigorous validation and thoughtful development.
